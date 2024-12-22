@@ -1,4 +1,4 @@
-import MovieList from "../../components/MovieList/MovieList";
+import MovieList from "../../components/MovieList/MovieList.jsx";
 import SearchForm from "../../components/SearchForm/SearchForm.jsx";
 import { useState, useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
